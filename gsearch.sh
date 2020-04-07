@@ -9,7 +9,7 @@ function usage {
     exit
 }
 
-if [ ! $# -eq 2 ] ; then
+if [ ! $# -eq 3 ] ; then
     usage
 fi
 
